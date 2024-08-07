@@ -1,7 +1,9 @@
-## Hi there 👋
+
+![AdzJbT1u4_A](https://github.com/user-attachments/assets/a42e0098-9a9f-4774-846b-adaeada02943)
 
 <!--
-**egorgur/egorgur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**egorgur/egorgur** is 
+a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
